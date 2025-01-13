@@ -1,4 +1,4 @@
-Lo sapevi che le tue attività digitali inquinano?
+NoLo sapevi che le tue attività digitali inquinano?
 
 Ebbene sì. Nonostante i grandi vantaggi in vari settori la tecnologia, se non gestita con attenzione, può essere un problema ambientale non indifferente.
 
