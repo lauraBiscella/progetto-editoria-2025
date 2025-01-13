@@ -1,0 +1,24 @@
+site_name: GuidaGreen
+nav:
+  - Home: index.md
+  - Le Basi: 0_le_basi.md
+  - Il Digitale: 1_il_digitale.md
+  - Dati Statistici: 2_dati_statistici.md
+  - Gli Esperti: 3_gli_esperti.md
+  - Stile di vita: 4_stile_di_vita.md
+  - Test: https://www.footprintcalculator.org/sponsor/FR/it
+  - Green Challenge: 5_green_challenge.md
+  - Licenza: 6_licenza.md
+theme: solar
+extra:
+  metadati:
+    titolo: GuidaGreen
+    autore: Laura Biscella
+    description: webbook per una guida online sull'impronta ambientale il cambiamento climatico e uno stile di vita green
+    data: 14-01-2025
+    versione: "1.0"
+    licenza: CC BY-SA
+    tags: impattoambientale, cambiamentoclimatico, green, inquinamentodigitale
+    kind: webbook
+
+
