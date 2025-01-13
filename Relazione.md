@@ -77,10 +77,10 @@ Dopo aver fatto ricerche sul grado di interesse per le tematiche ambientali sui 
 + È ancora più raro che non utilizzino dei social comuni come TikTok, Instagram, X o YouTube. Quindi si è andati a mirare ad un prodotto che puntasse a quel tipo di piattaforme. 
 + È stato valutato anche che la maggioranza dei giovani utilizza molto più lo smartphone che il laptop o desktop, quindi un video da postare sui social era il modo più diretto per arrivare a questo tipo di destinatari.
 
-![persona_1](video/personas/persona_1.jpg){ width=50% }
-![persona_2](video/personas/persona_2.jpg){ width=50% }
-![persona_3](video/personas/persona_3.jpg){ width=50% }
-![persona_4](video/personas/persona_4.jpg){ width=50% }
+![persona_1](personas/persona_1.jpg){ width=50% }
+![persona_2](personas/persona_2.jpg){ width=50% }
+![persona_3](personas/persona_3.jpg){ width=50% }
+![persona_4](personas/persona_4.jpg){ width=50% }
 
 #### Scenario 1
 
